@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shreyanshsingh100
+- 👋 Hi, I’m @shreyanshsingh
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Java,SQL and C
 - 📫 To Reach me mail at shreyanshsingh660@gmail.com
